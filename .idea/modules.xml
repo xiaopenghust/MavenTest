@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MavenTest.iml" filepath="$PROJECT_DIR$/MavenTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-utils/commons-utils.iml" filepath="$PROJECT_DIR$/commons-utils/commons-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sf-app/sf-app.iml" filepath="$PROJECT_DIR$/sf-app/sf-app.iml" />
+    </modules>
+  </component>
+</project>
