@@ -9,5 +9,6 @@ public class AppUtils {
     public static void main(String[] args){
         User user = new User();
         user.setAge(50);
+        user.setId(10);
     }
 }
