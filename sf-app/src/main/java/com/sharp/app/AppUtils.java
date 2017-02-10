@@ -8,5 +8,6 @@ import com.sharp.User;
 public class AppUtils {
     public static void main(String[] args){
         User user = new User();
+        user.setAge(50);
     }
 }
